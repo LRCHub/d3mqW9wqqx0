@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "base_track": "IZNA",
+  "base_artist": "izna",
+  "createdAt": "2026-03-24T16:45:05.265323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IWALY (izna Version)",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/01_IWALY_(izna_Version)_izna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IZNA",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/02_IZNA_izna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "izna",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/03_izna_izna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "IZNA",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/04_IZNA_izna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IWALY - izna Version",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/05_IWALY_-_izna_Version_izna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IWALY (izna ver.)",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/06_IWALY_(izna_ver.)_izna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "IWALY - izna Version",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/07_IWALY_-_izna_Version_izna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IZNA",
+      "artist": "izna (이즈나)",
+      "has_synced": true,
+      "path": "select/08_IZNA_izna_(이즈나).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IZNA",
+      "artist": "Song, izna",
+      "has_synced": true,
+      "path": "select/09_IZNA_Song,_izna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IWALY (izna Ver.)",
+      "artist": "izna (이즈나)",
+      "has_synced": true,
+      "path": "select/10_IWALY_(izna_Ver.)_izna_(이즈나).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IZNA",
+      "artist": "izna",
+      "has_synced": false,
+      "path": "select/pl_01_IZNA_izna.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "IZNA",
+      "artist": "izna",
+      "has_synced": true,
+      "path": "select/localdb_01_IZNA_izna.lrc",
+      "repo_name": "FFkxUtzd4vI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "IZNA",
+      "artist": "izna",
+      "has_synced": false,
+      "path": "select/localdb_02_IZNA_izna.txt",
+      "repo_name": "2fyFx2u5fbU"
+    }
+  ]
+}
