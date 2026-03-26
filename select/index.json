@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "IZNA",
   "base_artist": "izna",
-  "createdAt": "2026-03-24T16:45:05.265323Z",
+  "createdAt": "2026-03-26T18:07:47.139610Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,15 +99,24 @@
       "artist": "izna",
       "has_synced": true,
       "path": "select/localdb_01_IZNA_izna.lrc",
-      "repo_name": "FFkxUtzd4vI"
+      "repo_name": "d3mqW9wqqx0"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "IZNA",
       "artist": "izna",
+      "has_synced": true,
+      "path": "select/localdb_02_IZNA_izna.lrc",
+      "repo_name": "FFkxUtzd4vI"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "IZNA",
+      "artist": "izna",
       "has_synced": false,
-      "path": "select/localdb_02_IZNA_izna.txt",
+      "path": "select/localdb_03_IZNA_izna.txt",
       "repo_name": "2fyFx2u5fbU"
     }
   ]
